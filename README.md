@@ -25,3 +25,10 @@
   <a href="https://www.linkedin.com/in/rodrigo-galeano-63712b197/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+  ##
+  
+  <div>
+    <h3>Visit Counter</h3>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigogaleano&label=Profile%20views&color=AE82CF&style=plastic" alt="rodrigogaleano" /> </p>
+  </div>
