@@ -1,4 +1,4 @@
-## Oi, eu sou o Rodrigo Galeano
+## Hi, I'm Rodrigo Galeano 💻
 
 
 <div align="center">
