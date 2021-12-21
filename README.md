@@ -3,7 +3,7 @@
 <!-- ## I'm student at UFMS and mobile developer at Ciarama Fazendas -->
 
 - 👨🏻‍💻 I'm currently working on a Ciarama Fazendas
-- 🎓 I study at UFMS
+- 🎓 I study Information Systems at UFMS
 - 📝 I'm currently learning Flutter
 
 ## Connect with me:
