@@ -4,6 +4,7 @@
 
 - 👨🏻‍💻 I'm intern at Ciarama Fazendas
 - 🎓 I study Information Systems at <a href="https://www.ufms.br">UFMS</a> 
+- 💻 IT technician, graduated from <a href="graduated from">IFMS</a>
 - 📝 I'm currently learning Flutter
 
 ## Connect with me:
