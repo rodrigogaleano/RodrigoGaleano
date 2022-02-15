@@ -5,7 +5,7 @@
 - 👨🏻‍💻 Estagiário na Ciarama Fazendas
 - 🎓 Estudante de Sistemas de Informação na <a href="https://www.ufms.br">UFMS</a> 
 - 💻 Técnico em Informática, graduado no <a href="graduated from">IFMS</a>
-- 📝 Atualmente estou aprendendo Flutter
+<!--- 📝 Atualmente estou me aprofundando no JavaScript-->
 
 ## Conecte-se comigo:
   
