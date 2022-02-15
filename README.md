@@ -5,6 +5,7 @@
 - 👨🏻‍💻 Estagiário na Ciarama Fazendas
 - 🎓 Estudante de Sistemas de Informação na <a href="https://www.ufms.br">UFMS</a> 
 - 💻 Técnico em Informática, graduado no <a href="graduated from">IFMS</a>
+- 📄 <a href="https://github.com/rodrigogaleano/RodrigoGaleano/raw/main/CV%20Rodrigo%20Galeano.pdf">Download do meu currículo</a>
 <!--- 📝 Atualmente estou me aprofundando no JavaScript-->
 
 ## Conecte-se comigo:
