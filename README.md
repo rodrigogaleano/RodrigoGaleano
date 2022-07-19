@@ -2,10 +2,11 @@
 
 <!-- ## I'm student at UFMS and mobile developer at Ciarama Fazendas -->
 
-- 👨🏻‍💻 Estagiário na Ciarama Fazendas
-- 🎓 Estudante de Sistemas de Informação na <a href="https://www.ufms.br">UFMS</a> 
-- 💻 Técnico em Informática, graduado no <a href="graduated from">IFMS</a>
-- 📝 Atualmente estou estudando ReactJS
+- 👨🏻‍💻 Desenvolvedor iOS na [Jera](https://jera.com.br/)
+- 👨🏻‍💻 Analista de dados na [Ciarama Fazendas](https://fazendas.ciarama.com.br/)
+- 🎓 Estudante de Sistemas de Informação na [UFMS](https://www.ufms.br) 
+- 💻 Técnico em Informática, graduado no [IFMS](https://www.ifms.edu.br/)
+- 📝 Atualmente estou estudando Swift
 - 📄 <a href="https://github.com/rodrigogaleano/RodrigoGaleano/raw/main/CV%20Rodrigo%20Galeano.pdf">Download do meu currículo</a>
 
 
