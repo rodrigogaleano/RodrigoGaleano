@@ -3,10 +3,8 @@
 <!-- ## I'm student at UFMS and mobile developer at Ciarama Fazendas -->
 
 - 👨🏻‍💻 Desenvolvedor iOS na [Jera](https://jera.com.br/)
-- 👨🏻‍💻 Analista de dados na [Ciarama Fazendas](https://fazendas.ciarama.com.br/)
 - 🎓 Estudante de Sistemas de Informação na [UFMS](https://www.ufms.br) 
 - 💻 Técnico em Informática, graduado no [IFMS](https://www.ifms.edu.br/)
-- 📝 Atualmente estou estudando Swift
 - 📄 <a href="https://github.com/rodrigogaleano/RodrigoGaleano/raw/main/CV%20Rodrigo%20Galeano.pdf">Download do meu currículo</a>
 
 
@@ -19,6 +17,7 @@
  
 ## Linguagens e ferramentas:
 
+<img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 <img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">     
 <!-- <img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> -->
