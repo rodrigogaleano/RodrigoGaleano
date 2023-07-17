@@ -2,7 +2,7 @@
 
 <!-- ## I'm student at UFMS and mobile developer at Ciarama Fazendas -->
 
-- 👨🏻‍💻 Desenvolvedor iOS na [Jera](https://jera.com.br/)
+- 👨🏻‍💻 Desenvolvedor Mobile na [Jera](https://jera.com.br/)
 - 🎓 Estudante de Sistemas de Informação na [UFMS](https://www.ufms.br) 
 - 💻 Técnico em Informática, graduado no [IFMS](https://www.ifms.edu.br/)
 <!-- - 📄 <a href="https://github.com/rodrigogaleano/RodrigoGaleano/raw/main/CV%20Rodrigo%20Galeano.pdf">Download do meu currículo</a> -->
