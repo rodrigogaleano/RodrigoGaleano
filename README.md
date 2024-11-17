@@ -9,8 +9,8 @@ I'm Rodrigo, a 23yo mobile developer from Brazil.
 
 As a mobile developer, I work with:
 
-- Flutter
 - Swift
+- Flutter
 
 ### Contact
 
