@@ -2,8 +2,9 @@
 
 I'm Rodrigo, a 24yo mobile developer from Brazil. As a mobile developer, I work with Swift and Flutter.
 
-- Currently working at [Jera](https://jera.com.br/)
-- Studying information systems at [UFMS](https://www.ufms.br/)
+- Currently working at [SENAI](https://senaisolucoesdigitais.com.br)
+- Bachelor's degree in Information Systems, graduated from the [Federal University of Mato Grosso do Sul (UFMS)](https://www.ufms.br)
+- IT Technician, graduated from the [Federal Institute of Mato Grosso do Sul (IFMS)](https://www.ifms.edu.br)
 
 ### Contact
 
